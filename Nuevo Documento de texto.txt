@@ -31,6 +31,8 @@ Comandos utilizados en Git
 3) git status
 4) git add .
 5) git status
-6) git commit -m "subiendo primer tarea"
-7) git push origin main 
+6) git config --global user.email "artesaniaslarustica@gmail.com"
+7) git config --global user.name "Alejandro-Santangelo"
+8) git commit -m "subiendo primer tarea"
+9) git push origin main 
   
