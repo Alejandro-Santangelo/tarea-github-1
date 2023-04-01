@@ -1,0 +1,36 @@
+Alejandro Vicente Santangelo
+16656885
+artesaniaslarustica@gmail.com
+Villa Giardino
+
+
+ Esta etapa de ingreso, podria decir, la atravieso con muchas ganas e incertidumbre, puesto que, si bien cuento con una minima experiencia en el campo, no es lo mismo hacer cursos que una carrera.
+Como experiencia positiva, destaco, el interes de directivos, profesores y preceptores para con la problematica y/o dificultades que podrian estar atravezando los estudiantes y la predisposicion para encontrar una solucion.
+Si bien , quedan expuestas algunas dificultades relacionadas a lo anteriormente descripto, tengo en cuenta que:
+Es una nueva carrera
+La resolucion Ministerial, recien les llego al comienzo del seminario " El oficio de ser Tecnico "
+El escaso apoyo y acompañamiento estatal
+Las distancias existentes entre el Instituto y el lugar de residencia de los estudiantes 
+
+Debo mencionar,dentro de los obstaculos, la dificultad que encuentro al navegar por el aula virtual, si bien, Pablo, oportunmaente, hizo un muy buen recorrido explicando los distintos sitios, me encuentro con que, en el uso, lo que busco, no se encuentra en el lugar que creia, deberian estar.
+
+A modo de cierre, quiero destacar, lo que expongo como obstaculos, son solamente eso ,  obstaculos de "comienzo" de algo nuevo para mi, muy lejos de ser un impedimento , obstaculos absolutamente sorteables, esto, debido a la predisposicion y  apoyo que ustedes brindan.     
+Exceptuando de esto, la cuestion "presencialidad" ya que , durante la incripcion, interprete seria una carrera 100% virtual
+
+
+Como habilidades cognitivas , hago mencion a las tres que destaco
+* Motivacion
+* Organizacion
+* Memoria
+     
+
+Comandos utilizados en Git 
+
+1) git init 
+2) git remote add origin  https://github.com/Alejandro-Santangelo/tarea-github-1.git
+3) git status
+4) git add .
+5) git status
+6) git commit -m "subiendo primer tarea"
+7) git push origin main 
+  
